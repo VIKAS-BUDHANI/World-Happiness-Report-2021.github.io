@@ -13,4 +13,4 @@ Click here to visit dashboard in tableau public [Tableau dashboard](https://publ
 Click here too visit web page [web page](https://vikas-budhani.github.io/World-Happiness-Report-2021.github.io/).
 
 
-https://cdn.who.int/media/images/default-source/mca/mca-covid-19/coronavirus-2.tmb-1366v.jpg?sfvrsn=4dba955c_12%201366w
+(https://cdn.who.int/media/images/default-source/mca/mca-covid-19/coronavirus-2.tmb-1366v.jpg?sfvrsn=4dba955c_12%201366w)
