@@ -1,6 +1,5 @@
 # World-Happiness-Report-2021.github.io
-<<<<<<< HEAD
-=======
+
 ## COVID 19 DASHBOARD
 Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.
 
